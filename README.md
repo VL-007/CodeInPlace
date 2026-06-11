@@ -25,6 +25,13 @@ The simulator visually demonstrates how a firewall processes network traffic, al
 
 ---
 
+```markdown
+## 🖼️ Preview
+
+Add a screenshot of the simulator here:
+
+```markdown
+![Preview](assets/screenshot.png)
 ## 🖼️ Preview
 
 Add a screenshot of the simulator here:
