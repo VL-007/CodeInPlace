@@ -31,3 +31,4 @@ Add a screenshot of the simulator here:
 
 ```markdown
 ![Preview](assets/screenshot.png)
+
